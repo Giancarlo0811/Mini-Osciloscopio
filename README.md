@@ -26,5 +26,5 @@ Incluir fotos de:
 - **Diseño original**: Propiedad de [Gabotronics](https://www.gabotronics.com/). Este repositorio 
 documenta la implementación de su kit donado. 
 - **Propósito**: Fines educativos y de portafolio personal. **No comercial**.   
-- **Documentación técnica oficial**: Disponible en la [página oficial de Gabotronics](https://www.gabotronics.com/categories/products/xprotolab-plain.html).
+- **Documentación técnica oficial**: Disponible en la [página de Gabotronics](https://www.gabotronics.com/categories/products/xprotolab-plain.html).
 - **Licencia**: El diseño, firmware y software de interfaz PC para visualización son propiedad intelectual de Gabotronics. 
