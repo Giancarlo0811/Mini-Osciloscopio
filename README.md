@@ -1,7 +1,7 @@
 # Mini-Osciloscopio
 
 ## 📚 Descripción
-Implementación del **Mini Osciloscopio Xprotolab Plain** (diseñado por [Gabotronics](https://www.gabotronics.com/categories/products/xprotolab-plain.html)), a partir de un kit donado a mi universidad.  
+Implementación del **Mini Osciloscopio Xprotolab Plain** diseñado por [Gabotronics](https://www.gabotronics.com/categories/products/xprotolab-plain.html).  
 
 Este proyecto fue realizado como parte del curso *Taller de Equipos Electrónicos (EC3083)* en la *Universidad Simón Bolívar*, utilizando un kit donado por **Gabotronics**. 
 
