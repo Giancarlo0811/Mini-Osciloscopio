@@ -14,8 +14,8 @@ El proyecto consistió en:
 ## 🛠️ Tecnologías/Hardware
 - **Hardware**: PCB y componentes proporcionados por Gabotronics.  
 - **Software**: 
-        [XScopes PC Interface](https://www.gabotronics.com/product-info/xprotolab-pc-interface.html).
-        Driver WinUSB [ZADIG tool](https://www.gabotronics.com/download/xscopes/zadig_v2.0.1.162.exe).
+    - [XScopes PC Interface](https://www.gabotronics.com/product-info/xprotolab-pc-interface.html).
+    - Driver WinUSB [ZADIG tool](https://www.gabotronics.com/download/xscopes/zadig_v2.0.1.162.exe).
 
 ## 📸 Media
 Incluir fotos de:  
