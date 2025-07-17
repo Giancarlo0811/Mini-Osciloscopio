@@ -26,10 +26,8 @@ Foto del Kit?
 
 ### 📐 Esquemático/Footprints
 ![alt text](./Imagenes/esquematico.PNG)
-*Esquemático del osciloscopio*
 
 ![alt text](./Imagenes/xprotolab-plain-assembly.png)
-*Footprints para ensamblaje del osciloscopio*
 
 ### 📊 Visualización de señales
 Señales capturadas en el software (ej. onda cuadrada, senoidal, etc).  
