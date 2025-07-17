@@ -6,14 +6,10 @@ Implementación del **Mini Osciloscopio Xprotolab Plain** diseñado por [Gabotro
 Este proyecto fue realizado como parte del curso *Taller de Equipos Electrónicos (EC3083)* en la *Universidad Simón Bolívar*, utilizando un kit donado por **Gabotronics**. 
 
 El proyecto consistió en: 
-
-✅ Ensamblaje del circuito (soldadura de componentes SMD/THT).  
-
-✅ Pruebas de funcionamiento.  
-
-✅ Experimentación con diferentes señales.
-
-✅ Visualización de las señales en PC mediante software dedicado.
+- ✅ Ensamblaje del circuito (soldadura de componentes SMD/THT).  
+- ✅ Pruebas de funcionamiento.  
+- ✅ Experimentación con diferentes señales.
+- ✅ Visualización de las señales en PC mediante software dedicado.
 
 ## 🛠️ Tecnologías/Hardware
 - **Hardware**: PCB y componentes proporcionados por Gabotronics.  
