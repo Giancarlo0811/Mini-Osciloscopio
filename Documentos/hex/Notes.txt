@@ -1,0 +1,21 @@
+Microcontroller:
+ATXMEGA32A4U-AU
+
+FLASH MEMORY:
+xprotoplain-merged.hex
+
+EEPROM MEMORY:
+xprotolab-plain.eep
+
+Fuse Settings:
+
+FUSEBYTE0: 0xFF
+FUSEBYTE1: 0x00
+FUSEBYTE2: 0xBD
+FUSEBYTE4: 0xF7
+FUSEBYTE5: 0xE9
+
+BLBB:  WLOCK
+BLBA:  NOLOCK
+BLBAT: NOLOCK
+LB:    NOLOCK

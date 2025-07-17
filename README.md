@@ -11,8 +11,9 @@ El proyecto consistió en:
 - ✅ Experimentación con diferentes señales.
 - ✅ Visualización de las señales en PC mediante software dedicado.
 
-## 🛠️ Tecnologías/Hardware
-- **Hardware**: PCB y componentes proporcionados por Gabotronics.  
+## 🛠️ Tecnologías
+- **Hardware**: PCB y componentes proporcionados por Gabotronics. 
+    - [BOM](https://www.gabotronics.com/download/xproto-plain/xprotolab-plain-bom.xlsx). 
 - **Software**: 
     - [XScopes PC Interface](https://www.gabotronics.com/product-info/xprotolab-pc-interface.html).
     - Driver WinUSB [ZADIG tool](https://www.gabotronics.com/download/xscopes/zadig_v2.0.1.162.exe).
@@ -25,8 +26,10 @@ Foto del Kit?
 
 ### 📐 Esquemático/Footprints
 ![alt text](./Imagenes/esquematico.PNG)
+*Esquemático del osciloscopio*
 
 ![alt text](./Imagenes/xprotolab-plain-assembly.png)
+*Footprints para ensamblaje del osciloscopio*
 
 ### 📊 Visualización de señales
 Señales capturadas en el software (ej. onda cuadrada, senoidal, etc).  
