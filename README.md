@@ -17,10 +17,17 @@ El proyecto consistió en:
 
 ## 📸 Media
 Incluir fotos de:  
-- La PCB soldada, esquematico 
-- Señales capturadas en el software (ej. onda cuadrada de 555).  
+- Señales capturadas en el software (ej. onda cuadrada, senoidal, etc).  
 - Montaje en protoboard del 555 para señal de Pulsos?
-- Pruebas en el lab con el generador de funciones para distintas señales?
+
+### PCB
+Foto PCB soldada, por adelante y atras
+Foto del Kit?
+
+### Esquemático/Footprints
+![alt text](./Imagenes/esquematico.PNG)
+
+![alt text](./Imagenes/xprotolab-plain-assembly.png)
 
 ## ⚠️ Disclaimer  
 - **Diseño original**: Propiedad de [Gabotronics](https://www.gabotronics.com/). Este repositorio 
