@@ -36,7 +36,7 @@ El proyecto consistió en:
 
 ![alt text](./Imagenes/555_signal.PNG)
 
-- #### Arbitrary waveform generator (AWG)
+- #### Arbitrary Waveform Generator (AWG)
     - #### Onda senoidal
     ![alt text](./Imagenes/AWG_sine.PNG)
     - #### Onda triangular
