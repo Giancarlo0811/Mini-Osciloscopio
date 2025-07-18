@@ -34,7 +34,7 @@ El proyecto consistió en:
 - #### Onda cuadrada con 555 astable 
 ![alt text](./Imagenes/Test_555.jpeg)
 
-![alt text](./Imagenes/555_signal.PNG)
+![alt text](./Imagenes/555_astable_signal.PNG)
 
 - #### Arbitrary Waveform Generator (AWG)
     - #### Onda senoidal
