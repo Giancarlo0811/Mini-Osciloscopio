@@ -37,15 +37,15 @@ El proyecto consistió en:
 ![alt text](./Imagenes/555_signal.PNG)
 
 - #### Arbitrary waveform generator (AWG)
-    - Onda senoidal
+    - #### Onda senoidal
     ![alt text](./Imagenes/AWG_sine.PNG)
-    - Onda triangular
+    - #### Onda triangular
     ![alt text](./Imagenes/AWG_triangular.PNG)
-    - Onda cuadrada
+    - #### Onda cuadrada
     ![alt text](./Imagenes/AWG_Pulsos.PNG)
-    - Onda RC
+    - ##### Onda RC
     ![alt text](./Imagenes/AWG_RC.PNG)
-    - Onda ECG
+    - ##### Onda ECG
     ![alt text](./Imagenes/AWG_ECG.PNG)
 
 ## ⚠️ Disclaimer  
