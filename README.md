@@ -21,8 +21,9 @@ El proyecto consistió en:
 ## 📸 Media
 
 ### ⚡ PCB
-Foto PCB soldada, por adelante y atras
-Foto del Kit?
+![alt text](./Imagenes/PCB_Front.jpeg)
+
+![alt text](./Imagenes/PCB_Back.jpeg)
 
 ### 📐 Esquemático/Footprints
 ![alt text](./Imagenes/esquematico.PNG)
@@ -30,7 +31,22 @@ Foto del Kit?
 ![alt text](./Imagenes/xprotolab-plain-assembly.png)
 
 ### 📊 Visualización de señales
-Señales capturadas en el software (ej. onda cuadrada, senoidal, etc).  
+- #### Onda cuadrada con 555 astable 
+![alt text](./Imagenes/Test_555.jpeg)
+
+![alt text](./Imagenes/555_signal.PNG)
+
+- #### Arbitrary waveform generator (AWG)
+    - Onda senoidal
+    ![alt text](./Imagenes/AWG_sine.PNG)
+    - Onda triangular
+    ![alt text](./Imagenes/AWG_triangular.PNG)
+    - Onda cuadrada
+    ![alt text](./Imagenes/AWG_Pulsos.PNG)
+    - Onda RC
+    ![alt text](./Imagenes/AWG_RC.PNG)
+    - Onda ECG
+    ![alt text](./Imagenes/AWG_ECG.PNG)
 
 ## ⚠️ Disclaimer  
 - **Diseño original**: Propiedad de [Gabotronics](https://www.gabotronics.com/). Este repositorio 
