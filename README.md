@@ -31,8 +31,7 @@ El proyecto consistió en:
 ![alt text](./Imagenes/xprotolab-plain-assembly.png)
 
 ### 📊 Pruebas
-- #### Onda cuadrada con 555 astable
-🎬 **Demostración:** [Video](https://youtu.be/qR45TX839PM)
+- #### Onda cuadrada con 555 astable (🎬 [Video](https://youtu.be/qR45TX839PM))
 
 ![alt text](./Imagenes/Test_555.jpeg)
 
