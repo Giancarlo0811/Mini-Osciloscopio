@@ -21,9 +21,9 @@ El proyecto consistió en:
 ## 📸 Media
 
 ### ⚡ PCB
-![alt text](./Imagenes/PCB_Front.jpeg)
+![alt text](./Imagenes/PCB_front.jpeg)
 
-![alt text](./Imagenes/PCB_Back.jpeg)
+![alt text](./Imagenes/PCB_back.jpeg)
 
 ### 📐 Esquemático/Footprints
 ![alt text](./Imagenes/esquematico.PNG)
