@@ -30,8 +30,10 @@ El proyecto consistió en:
 
 ![alt text](./Imagenes/xprotolab-plain-assembly.png)
 
-### 📊 Visualización de señales
-- #### Onda cuadrada con 555 astable 
+### 📊 Pruebas
+- #### Onda cuadrada con 555 astable
+🎬 [Video](https://youtu.be/qR45TX839PM)
+
 ![alt text](./Imagenes/Test_555.jpeg)
 
 ![alt text](./Imagenes/555_astable_signal.PNG)
@@ -43,9 +45,9 @@ El proyecto consistió en:
     ![alt text](./Imagenes/AWG_triangular.PNG)
     - #### Onda cuadrada
     ![alt text](./Imagenes/AWG_Pulsos.PNG)
-    - ##### Onda RC
+    - #### Onda RC
     ![alt text](./Imagenes/AWG_RC.PNG)
-    - ##### Onda ECG
+    - #### Onda ECG
     ![alt text](./Imagenes/AWG_ECG.PNG)
 
 ## ⚠️ Disclaimer  
