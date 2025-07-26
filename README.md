@@ -37,6 +37,12 @@ El proyecto consistió en:
 
 ![alt text](./Imagenes/555_astable_signal.PNG)
 
+- #### Rectificador de media onda
+
+![alt text](./Imagenes/Rectificador_media_onda.jpeg)
+
+![alt text](./Imagenes/media_onda_signal.PNG)
+
 - #### Arbitrary Waveform Generator (AWG)
     - #### Onda senoidal
     ![alt text](./Imagenes/AWG_sine.PNG)
